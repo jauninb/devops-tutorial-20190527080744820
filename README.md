@@ -7,11 +7,11 @@ The application is a simple Node.js [Express 4](http://expressjs.com/) sample th
 To set up and run certain stages of the pipeline, you might need to register for other tools or services. The tutorial guides you through those details.
 
 
-###To get started, click this button:
-[![Create Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/open-toolchain/devops-tutorial.git)
+### To get started, click this button:
+[![Create Toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/open-toolchain/devops-tutorial.git)
  
 ---
-###Learn more
+### Learn more
 
 * For more information about toolchains, see [Custom toolchains in one click with IBM Bluemix DevOps Services](https://developer.ibm.com/devops-services/2016/06/16/open-toolchain-with-ibm-bluemix-devops-services/).
 * To try a toolchain that uses microservices, see the [Microservices toolchain](https://www.ibm.com/devops/method/toolchains/microservices_toolchain) on the IBM Bluemix Garage Method site.
